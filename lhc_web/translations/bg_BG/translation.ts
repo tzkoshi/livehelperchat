@@ -8337,11 +8337,11 @@
     </message>
     <message>
       <source>A support staff member has closed this chat</source>
-      <translation>Оператор на e-2print затвори чата.</translation>
+      <translation>Оператор затвори чата.</translation>
     </message>
     <message>
       <source>A support staff member has joined this chat</source>
-      <translation>Оператор на e-2print се присъедини към чата.</translation>
+      <translation>Оператор се присъедини към чата.</translation>
     </message>
     <message>
       <source>At this moment there are no logged in support staff members, but you can leave your messages</source>
